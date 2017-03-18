@@ -17,7 +17,7 @@ text-align: center;
 
 ul li{
 list-style-type: none; 
-background: #1CDED5;
+background: #ECD4E9;
 display:inline;
 font-size: 20px; 
 font-weight: bold;
@@ -29,13 +29,14 @@ border-radius: 7px;
 }
     #cuerpo{
         text-align: center;
-        font-family: Magneto;
-        font-size: 26px;
-      
+        font-family: Chaparral Pro Light;
+        font-weight: bold;
+        font-size: 15px;
+        font-style: italic
        
         }
     #pie{
-        background: #1CDED5;
+        background: #ECD4E9;
         text-align: center;
         }
         a:hover{
@@ -89,5 +90,5 @@ border-radius: 7px;
             }
           
             #fondo{
-            background: #1CDED5;
+            background: #ECD4E9;
             }
