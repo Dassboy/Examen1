@@ -10,7 +10,8 @@ and open the template in the editor.
 
 #cabecera{
    
-font-family: Forte;
+font-family: Elephant;
+color: rosybrown;
 font-size: 40px;
 text-align: center;
 }
@@ -41,7 +42,7 @@ border-radius: 7px;
         }
         a:hover{
             color:red;
-            font-size: 21px;
+            font-size: 16px;
         }
         a{
             text-decoration: none;
@@ -61,14 +62,14 @@ border-radius: 7px;
             }
             
             a:link{
-                color:blue;
+                color:blueviolet;
             }
             
             a:visited{
-                color:black;
+                color:red;
             }
             a:active{
-                color:red;
+                color:green;
             }
             label{
                 display: inline-block;
